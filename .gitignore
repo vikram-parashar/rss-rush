@@ -1,0 +1,4 @@
+bin
+database
+.env
+go.sum
